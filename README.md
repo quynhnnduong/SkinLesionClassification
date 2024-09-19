@@ -1,1 +1,1 @@
-# SkinLeasionClassification
+# SkinLesionClassification
